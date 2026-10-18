@@ -1,0 +1,27 @@
+# Local Python and packaging outputs
+.packaging-venv/
+.venv/
+.claude/
+.vite/
+__pycache__/
+*.py[cod]
+build/
+dist/
+release/
+*.spec
+
+# Local pet saves
+data/
+soobin_pet/data/
+
+# macOS metadata
+.DS_Store
+._*
+
+# Original source media and superseded animation backups
+assets/sources/
+soobin_pet/assets/sources/
+assets/*backup*/
+assets/*backup*
+soobin_pet/assets/*backup*/
+soobin_pet/assets/*backup*
